@@ -18,7 +18,7 @@ export default function Contact() {
             <Link className="flexCenter animate pointer" to="home" smooth={true} offset={-80}>
             <img width="60" src={logo} alt="logo" />  
             <h1 className="font15 extraBold whiteColor" style={{ marginLeft: "15px" }}>
-                Приватне детективне агенство «БАРС»
+                Приватне детективне агентство «БАРС»
               </h1>
             </Link>
 
